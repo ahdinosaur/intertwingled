@@ -1,7 +1,6 @@
 import got from 'got'
 import { createWriteStream } from 'node:fs'
 
-
 build({
   serverUrl: 'https://tube.arthack.nz',
   channelName: 'intertwingled',
@@ -12,7 +11,7 @@ async function build(options) {
   const { serverUrl, channelName, filePath } = options
 
   const stream = getFileStream(options)
-  
+
   await writeChannelTitle(stream, options)
 
   await writeChannelVideos(stream, options)
@@ -31,7 +30,9 @@ async function writeChannelTitle(stream, { channelName, serverUrl }) {
   const text = [
     `# ${displayName}`,
     ``,
-    description.replace('\r', '')
+    `![](./banner.jpg)`,
+    ``,
+    description.replace(newlineRegex, '\n')
   ].join('\n')
 
   stream.write(
@@ -69,7 +70,7 @@ async function writeChannelVideos(stream, options, { start = 0, count = 10 } = {
     ).json()
 
     const shortDescription = description
-      .split(/\r?\n|\r/g)
+      .split(newlineRegex)
       .slice(0, 3)
       .join('\n')
 
@@ -97,3 +98,5 @@ async function writeChannelVideos(stream, options, { start = 0, count = 10 } = {
     await writeChannelVideos(stream, options, { start: start + data.length, count }) 
   }
 }
+
+const newlineRegex = /\r?\n|\r/g

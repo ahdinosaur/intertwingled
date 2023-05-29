@@ -1,18 +1,19 @@
 # EVERYTHING IS DEEPLY INTERTWINGLED
 
+![](./banner.jpg)
+
 A collection of videos to showcase the magic alchemy of computation.
 
 What is computing if you take away all hardware in front of your eyes?
 
 What does computing mean to humanity?
 
-Sources:
+See also:
 
 - https://archive.org/
-- https://tinlizzie.org/
+- https://tinlizzie.org/IA
 - https://github.com/watson/awesome-computer-history
 - https://ftp.squeak.org/Media/
-- https://el.media.mit.edu/logo-foundation/resources/onlogo/index.html
 
 ## [(2019) Lets LISP like its 1959 : Kristoffer Gronlund](https://tube.arthack.nz/videos/watch/9c8df619-9aa0-4156-b412-e6eb8edeae5e)
 
