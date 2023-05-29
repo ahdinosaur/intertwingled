@@ -10,10 +10,11 @@ What does computing mean to humanity?
 
 See also:
 
-- https://archive.org/
-- https://tinlizzie.org/IA
-- https://github.com/watson/awesome-computer-history
-- https://ftp.squeak.org/Media/
+- [Internet Archive](https://archive.org/)
+- [Intelligent Archive](https://tinlizzie.org/IA)
+- [Awesome Talks](https://github.com/JanVanRyswyck/awesome-talks)
+- [Awesome Computer History](https://github.com/watson/awesome-computer-history)
+- [ftp.squeak.org/Media/](https://ftp.squeak.org/Media/)
 
 ## [(2019) Lets LISP like its 1959 : Kristoffer Gronlund](https://tube.arthack.nz/videos/watch/9c8df619-9aa0-4156-b412-e6eb8edeae5e)
 
