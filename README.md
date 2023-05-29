@@ -16,6 +16,8 @@ See also:
 - [Awesome Computer History](https://github.com/watson/awesome-computer-history)
 - [ftp.squeak.org/Media/](https://ftp.squeak.org/Media/)
 
+To add or remove a video, see [contributing guide](https://github.com/ahdinosaur/intertwingled/blob/main/CONTRIBUTING.md).
+
 ## [(2019) Lets LISP like its 1959 : Kristoffer Gronlund](https://tube.arthack.nz/videos/watch/9c8df619-9aa0-4156-b412-e6eb8edeae5e)
 
 [![(2019) Lets LISP like its 1959 : Kristoffer Gronlund](https://tube.arthack.nz/static/thumbnails/5c83232d-33dc-49ec-9e91-82c4265401c5.jpg)](https://tube.arthack.nz/videos/watch/9c8df619-9aa0-4156-b412-e6eb8edeae5e)
