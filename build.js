@@ -59,7 +59,14 @@ async function writeChannelVideos(stream, options, { start = 0, count = 10 } = {
   ).json()
 
   for (const video of data) {
-    const { name, description, thumbnailPath, url } = video
+    const { id, name, thumbnailPath, url } = video
+
+    const { description } = await got(
+      `api/v1/videos/${id}/description`,
+      {
+        prefixUrl: serverUrl,
+      }
+    ).json()
 
     const shortDescription = description
       .split(/\r?\n|\r/g)

@@ -18,9 +18,9 @@ Sources:
 
 [![(2019) Lets LISP like its 1959 : Kristoffer Gronlund](https://tube.arthack.nz/static/thumbnails/5c83232d-33dc-49ec-9e91-82c4265401c5.jpg)](https://tube.arthack.nz/videos/watch/9c8df619-9aa0-4156-b412-e6eb8edeae5e)
 
-One of my favorite papers in computer science is the original LISP
-paper by John McCarthy. Written in 1959, it describes something
-mind-bending: The interpreter for a language in the language that it
+One of my favorite papers in computer science is the original LISP paper by John McCarthy. Written in 1959, it describes something mind-bending: The interpreter for a language in the language that it interprets. If you understand this paper, you understand how computation works.
+
+Source: https://archive.org/details/lca2019-Lets_LISP_like_its_1959
 
 ## [(2017) Yesterday's Computer of Tomorrow: The Xerox Alto | Smalltalk-76 Demo](https://tube.arthack.nz/videos/watch/d0031593-a071-41a7-bf36-30005f4cf45b)
 
@@ -36,13 +36,15 @@ Source: https://youtu.be/NqKyHEJe9_w
 
 William E. Byrd "explores what he considers to be the most beautiful program ever written---a Lisp interpreter written in Lisp---and a few of the many amazing ideas related to this metacircular interpreter."
 
-Source: https://youtu.be/OyfBQmvr2Hc...
+Source: https://youtu.be/OyfBQmvr2Hc
 
 ## [(2016) Limits of Logic : The Gödel Legacy - Douglas Hofstadter](https://tube.arthack.nz/videos/watch/abfc2407-56e9-4340-9c0d-1db96cc2d498)
 
 [![(2016) Limits of Logic : The Gödel Legacy - Douglas Hofstadter](https://tube.arthack.nz/static/thumbnails/fc757cd9-c9fd-4a23-9f56-999874b82234.jpg)](https://tube.arthack.nz/videos/watch/abfc2407-56e9-4340-9c0d-1db96cc2d498)
 
-Kurt Gödel showed that mathematical thinking cannot be captured in a formal axiomatic reasoning system. What does this deep result mean in practice? What are the limits of computer thinking? Can beauty and creativity and a sense of humor be formal...
+Kurt Gödel showed that mathematical thinking cannot be captured in a formal axiomatic reasoning system. What does this deep result mean in practice? What are the limits of computer thinking? Can beauty and creativity and a sense of humor be formalized?
+
+Source: https://youtu.be/V9ohtKameio
 
 ## [(2013) Finding a Way Out : Chris Granger](https://tube.arthack.nz/videos/watch/de37f5e4-0625-4935-b4ed-0257abce6ab0)
 
@@ -134,19 +136,25 @@ Source: https://youtu.be/rndV_5q8Tkc
 
 [![(1995) Self: The Movie - Randall Smith](https://tube.arthack.nz/static/thumbnails/e5acb6e3-1d98-4c8a-aa47-1b2076f14373.jpg)](https://tube.arthack.nz/videos/watch/99579905-a2e8-45c3-bdcf-e33b60998a50)
 
-The Self programming language was developed initially as Stanford University (David Ungar and his students) and Xerox Parc (Randy Smith). It is a simple and powerful version of the Smalltalk language. The project moved to Sun in 1990 and continued...
+The Self programming language was developed initially as Stanford University (David Ungar and his students) and Xerox Parc (Randy Smith). It is a simple and powerful version of the Smalltalk language. The project moved to Sun in 1990 and continued there with some interruptions until 2006.
+
+Source: http://www.smalltalk.org.br/movies/self.html
 
 ## [(1993) The Internet - Computer Chronicles](https://tube.arthack.nz/videos/watch/b3039608-d349-4132-bfd9-1fd686ed756a)
 
 [![(1993) The Internet - Computer Chronicles](https://tube.arthack.nz/static/thumbnails/f75b803c-fbff-4a08-baaa-975d96cb4fd2.jpg)](https://tube.arthack.nz/videos/watch/b3039608-d349-4132-bfd9-1fd686ed756a)
 
-It wasn't quite the World Wide Web yet, but everybody started hearing about this thing called "the Internet" in 1993. It was being called the Information Superhighway then. This program looks at the earliest stages of the Internet including Aladdi...
+It wasn't quite the World Wide Web yet, but everybody started hearing about this thing called "the Internet" in 1993. It was being called the Information Superhighway then. This program looks at the earliest stages of the Internet including Aladdin Systems SITComm, a Macintosh communications program for Internet access, and the WELL (Whole Earth Lectronic Link), an early online community. Also featured is a visit to the former Bell Labs in New Jersey (now Bellcore) for demonstrations of internet based teleconferencing, video on demand, ISDN, and optical network technology; a preview of the World Wide Web as used at NASA; a visit to where it all began, ARPA, the Advanced Research Projects Agency in Virgnia; and a look at the Internet Multicasting Service in Washington, the first Internet radio station. Guests include Brendan Kehoe, author of "Zen and the Art of the Internet", Howard Rheingold, author of "The Virtual Community", Dr. Robert Kahn, former found of ARPA, and Carl Malamud, author of "Exploring the Internet".
+
+Source: https://archive.org/details/episode_1134
 
 ## [(1992) Virtual Reality - Computer Chronicles](https://tube.arthack.nz/videos/watch/d124aecc-83e1-41ee-8df7-2191cbca585e)
 
 [![(1992) Virtual Reality - Computer Chronicles](https://tube.arthack.nz/static/thumbnails/3f913314-9f94-4851-af6b-d59168b07c75.jpg)](https://tube.arthack.nz/videos/watch/d124aecc-83e1-41ee-8df7-2191cbca585e)
 
-Virtual reality started out as a science fiction concept in the early 1950s. Now, VR has become a kind of holy grail - lots of promises and claims, few results delivered. This program looks at the state of virtual reality. Demonstrations include t...
+Virtual reality started out as a science fiction concept in the early 1950s. Now, VR has become a kind of holy grail - lots of promises and claims, few results delivered. This program looks at the state of virtual reality. Demonstrations include the Talking Glove, AutoDesk's Cyberspace project, the Virtual Hand, GestureGlove, CyberGlove, CyberCAD, Virtus Corporation's WalkThrough. Also a visit to the Virtual Reality Showcase at the Software Development Conference in Santa Clara, California.
+
+Source: https://archive.org/details/virtualreali
 
 ## [(1991) Power Shift - HP Series 700 Workstation Promo](https://tube.arthack.nz/videos/watch/11ea5627-a361-4e3f-8273-9a935d30674f)
 
@@ -162,7 +170,7 @@ Source: https://youtu.be/VLTh4uVJduI
 
 A look at the state of the art in programming languages and tools circa 1990. Demonstrations include Smalltalk V/PM, Actor 2.0, Zortech C++, Objective C, EngLan, TurboPascal, Turbo C, and Prograph.
 
-Source: https://archive.org/details/programmin...
+Source: https://archive.org/details/programming_2
 
 ## [(1990) Erlang: The Movie](https://tube.arthack.nz/videos/watch/6a52b152-87eb-47eb-b5e0-3428dfa55880)
 
@@ -184,7 +192,9 @@ Source: https://archive.org/details/youtube-kOO31qFmi9A
 
 [![(1989) John McCarthy - Thinking Allowed](https://tube.arthack.nz/static/thumbnails/271eb90f-2810-4395-8ac7-e6aea339209b.jpg)](https://tube.arthack.nz/videos/watch/337ddfcb-8011-4e00-ae51-098a3a6b9cab)
 
-The science of artificial intelligence is a program to accomplish the Socratic injunction, "Know Thyself." The late John McCarthy, Ph.D., invented LISP, the major language today used for artificial intelligence. Here he discusses the history of ar...
+The science of artificial intelligence is a program to accomplish the Socratic injunction, "Know Thyself." The late John McCarthy, Ph.D., invented LISP, the major language today used for artificial intelligence. Here he discusses the history of artificial intelligence and the future role which non-monotonic reasoning will play in enabling computers to simulate the human mind.
+
+Source: https://youtu.be/Ozipf13jRr4
 
 ## [(1989) Object-Oriented Programming : Dan Ingalls](https://tube.arthack.nz/videos/watch/31b2e34e-a740-4025-9837-2249aa51c604)
 
@@ -198,31 +208,41 @@ Source: https://archive.org/details/DanIngal1989
 
 [![(1987) Hypercard - Computer Chronicles](https://tube.arthack.nz/static/thumbnails/f1363304-fa76-47de-946b-f208c638448d.jpg)](https://tube.arthack.nz/videos/watch/1ba1e863-cc86-433e-a1dc-bd642835409a)
 
-An introduction to Apple's Hypercard. Guests include Apple Fellow and Hypercard creator Bill Atkinson, Hypercard senior engineer Dan Winkler, author of "The Complete Hypercard Handbook" Danny Goodman, and Robert Stein, Publisher of Voyager Company...
+An introduction to Apple's Hypercard. Guests include Apple Fellow and Hypercard creator Bill Atkinson, Hypercard senior engineer Dan Winkler, author of "The Complete Hypercard Handbook" Danny Goodman, and Robert Stein, Publisher of Voyager Company. Demonstrations include Hypercard 1.0, Complete Car Cost Guide, Focal Point, Laserstacks, and National Galllery of Art.
+
+Source: https://archive.org/details/CC501_hypercard
 
 ## [(1987) Alternate Reality Kit: Randall Smith](https://tube.arthack.nz/videos/watch/8fbe182e-68b6-4bc7-a7c5-ea9f4160bc79)
 
 [![(1987) Alternate Reality Kit: Randall Smith](https://tube.arthack.nz/static/thumbnails/9b146584-0568-4059-b523-7f87f7e03e08.jpg)](https://tube.arthack.nz/videos/watch/8fbe182e-68b6-4bc7-a7c5-ea9f4160bc79)
 
-This video is an overview of the Alternate Reality Kit (ARK); an animated environment for creating interactive simulations. ARK is built upon a physical-world metaphor: all objects have an image; a position; a velocity; and can experience forces. ...
+This video is an overview of the Alternate Reality Kit (ARK); an animated environment for creating interactive simulations. ARK is built upon a physical-world metaphor: all objects have an image; a position; a velocity; and can experience forces. Users manipulate objects wiha mouse-operated "hand" which enables them to carry and throw objects; to press buttons; and to operate sliders. Discussion of each ARK feature includes informal observations of early ARK users; an assessment the feature's learnablility; of its usefulness; and of its position on the magical-literal axis.
+
+Source: https://open-video.org/details.php?videoid=8050
 
 ## [(1987) Doing with Images Makes Symbols: Communicating with computers - Alan Kay (Part 2/2)](https://tube.arthack.nz/videos/watch/fa6be492-121a-40e8-9a66-02ef3e845f07)
 
 [![(1987) Doing with Images Makes Symbols: Communicating with computers - Alan Kay (Part 2/2)](https://tube.arthack.nz/static/thumbnails/c85a7652-de21-4d12-8222-766555d19f6f.jpg)](https://tube.arthack.nz/videos/watch/fa6be492-121a-40e8-9a66-02ef3e845f07)
 
-This talk tells the story of the design of the "windows and mouse" style of user interface, commonly associated with the Apple Macintosh. We start in the 1960's with Sketchpad, NLS and Grail, and see how these seminal ideas influenced the Smalltal...
+This talk tells the story of the design of the "windows and mouse" style of user interface, commonly associated with the Apple Macintosh. We start in the 1960's with Sketchpad, NLS and Grail, and see how these seminal ideas influenced the Smalltalk work with children at Xerox PARC. Finally, we explore human psychology and the multi-mentality theories that helped the PARC designer's work.
+
+Source: https://archive.org/details/AlanKeyD1987_2
 
 ## [(1987) Doing with Images Makes Symbols: Communicating with computers - Alan Kay (Part 1/2)](https://tube.arthack.nz/videos/watch/8e4dc724-90a6-4d52-9cff-639392dfb10f)
 
 [![(1987) Doing with Images Makes Symbols: Communicating with computers - Alan Kay (Part 1/2)](https://tube.arthack.nz/static/thumbnails/47e1195b-5f36-48b0-a6da-bd8fe18252ae.jpg)](https://tube.arthack.nz/videos/watch/8e4dc724-90a6-4d52-9cff-639392dfb10f)
 
-This talk tells the story of the design of the "windows and mouse" style of user interface, commonly associated with the Apple Macintosh. We start in the 1960's with Sketchpad, NLS and Grail, and see how these seminal ideas influenced the Smalltal...
+This talk tells the story of the design of the "windows and mouse" style of user interface, commonly associated with the Apple Macintosh. We start in the 1960's with Sketchpad, NLS and Grail, and see how these seminal ideas influenced the Smalltalk work with children at Xerox PARC. Finally, we explore human psychology and the multi-mentality theories that helped the PARC designer's work.
+
+Source: https://archive.org/details/AlanKeyD1987
 
 ## [(1986) The Augmented Knowledge Workshop : Doug Engelbart](https://tube.arthack.nz/videos/watch/2f6c8b26-b5a7-4fb0-bacf-f6788e9bf7d8)
 
 [![(1986) The Augmented Knowledge Workshop : Doug Engelbart](https://tube.arthack.nz/static/thumbnails/173f17f6-be9f-40b7-a929-bcdffdc4cbc1.jpg)](https://tube.arthack.nz/videos/watch/2f6c8b26-b5a7-4fb0-bacf-f6788e9bf7d8)
 
-Doug Engelbart's presentation at the ACM Conference on the History of Personal Workstations, Palo Alto, CA, January 9-10, 1986, in which he details the evolutionary development of his seminal work, including [NLS](http://en.wikipedia.org/wiki/NLS_...
+Doug Engelbart's presentation at the ACM Conference on the History of Personal Workstations, Palo Alto, CA, January 9-10, 1986, in which he details the evolutionary development of his seminal work, including [NLS](http://en.wikipedia.org/wiki/NLS_(computer_system)) design rationale, implementation and usage by his team, leading up to the [1968 demo](http://www.archive.org/details/XD300-23_68HighlightsAResearchCntAugHumanIntellect) and beyond. Includes historic photos plus 20 minutes of footage excerpted from the historic demo. See also Doug's paper [Workstation History and The Augmented Knowledge Workshop](http://www.dougengelbart.org/pubs/augment-101931.html), published in the conference proceedings, and later edited by conference organizer Adele Goldberg into her book A History of Personal Workstations, ACM Press, New York, 1988.
+
+Source: https://archive.org/details/XD302_86ACM_Prese_AugKnowledgeWorkshopParts1and2
 
 ## [(1986) Alternate Reality Kit: Randall Smith](https://tube.arthack.nz/videos/watch/2bcce42b-8cff-4cde-b1bd-9f5cac9f3479)
 
@@ -270,7 +290,7 @@ Source: https://el.media.mit.edu/logo-foundation/resources/onlogo/index.html
 
 In this module Papert answers teachers' questions, discussing Logo as a flexible medium through which learners can show and develop their intellectual individualities.
 
-Source: https://el.media.mit.edu/logo-foundation/resources/onlogo/index.html...
+Source: https://el.media.mit.edu/logo-foundation/resources/onlogo/index.html
 
 ## [(1986) On Logo : (3/8) Thinking - Seymour Papert](https://tube.arthack.nz/videos/watch/06b679df-146a-41fd-b41e-925be50f2b69)
 
@@ -308,7 +328,9 @@ Source: https://youtu.be/s6HJEnGRt88
 
 [![(1984) Artificial Intelligence](https://tube.arthack.nz/static/thumbnails/aa63e15b-486f-46d8-81a4-0b3f24fe858d.jpg)](https://tube.arthack.nz/videos/watch/f9012c70-448e-4c17-8aba-d1b255bc866e)
 
-An early look at artificial Intelligence. Guests includes Edward Feigenbaum of Stanford University, Nils Nilsson of the AI Center at SRI International, Tom Kehler of Intellegenetics, Herb Lechner of SRI, and John McCarthy of Stanford. Featured dem...
+An early look at artificial Intelligence. Guests includes Edward Feigenbaum of Stanford University, Nils Nilsson of the AI Center at SRI International, Tom Kehler of Intellegenetics, Herb Lechner of SRI, and John McCarthy of Stanford. Featured demonstrations include Inferential Knowledge Engineering and the programming language LISP.
+
+Source: https://archive.org/details/CC1024_artificial_intelligence
 
 ## [(1983) Talking Turtle (for PBS)](https://tube.arthack.nz/videos/watch/d976a246-dd20-4441-82fe-d7c687a33a78)
 
@@ -316,7 +338,7 @@ An early look at artificial Intelligence. Guests includes Edward Feigenbaum of S
 
 Presents children learning through LOGO -- a computer language designed for easy learning -- and turtles -- small robots controlled by computers -- both designed by Prof. Seymour Papert, who speaks of them throughout this.
 
-Source: https://archi...
+Source: https://archive.org/details/NOVATalkingTurtle/NOVA.S10E11.Talking.Turtle.1983.VHSRip.AAC2.0.x264-rattera.mp4
 
 ## [(1983) Talking Turtle (for BBC)](https://tube.arthack.nz/videos/watch/96ffe315-5d1d-426f-8abe-93d8ad925dee)
 
@@ -324,7 +346,7 @@ Source: https://archi...
 
 Presents children learning through LOGO -- a computer language designed for easy learning -- and turtles -- small robots controlled by computers -- both designed by Prof. Seymour Papert, who speaks of them throughout this.
 
-Source: https://archi...
+Source: https://archive.org/details/NOVATalkingTurtle/NOVA.S10E11.(BBC.Open.Univ).Talking.Turtle.1983.VHSRip.AAC2.0.x264-astro.mp4
 
 ## [(1972) ARPANET: Computer Networks - The Heralds of Resource Sharing](https://tube.arthack.nz/videos/watch/8601083e-39a7-41e6-a844-35e88901bf34)
 
@@ -332,19 +354,23 @@ Source: https://archi...
 
 A short documentary film from 1972, produced by Steven King and directed/edited by Peter Chvany, about ARPANET, an early packet switching network and the one of the first networks to implement the protocol suite TCP/IP. 
 
-Source: https://archive...
+Source: https://archive.org/details/ComputerNetworks_TheHeraldsOfResourceSharing
 
 ## [(1968) "Mother of All Demos" :  Douglas Engelbart (Highlights)](https://tube.arthack.nz/videos/watch/06459ca1-f7c6-4e82-9cb6-c42eecd51464)
 
 [![(1968) "Mother of All Demos" :  Douglas Engelbart (Highlights)](https://tube.arthack.nz/static/thumbnails/5c5affce-a35a-4093-b6b6-efebc532e7a2.jpg)](https://tube.arthack.nz/videos/watch/06459ca1-f7c6-4e82-9cb6-c42eecd51464)
 
-Edited highlights of Doug Engelbart's [1968 Demo](http://www.archive.org/details/XD300-23_68HighlightsAResearchCntAugHumanIntellect) produced by SRI International to be shown at the 40th anniversary celebration of the demo Engelbart and the Dawn o...
+Edited highlights of Doug Engelbart's [1968 Demo](http://www.archive.org/details/XD300-23_68HighlightsAResearchCntAugHumanIntellect) produced by SRI International to be shown at the 40th anniversary celebration of the demo Engelbart and the Dawn of Interactive Computing, December 9, 2008. This was a semi-final draft. See also SRI's finished annotated ten-snippet [Highlights of the 1968 Demo](http://dougengelbart.org/events/1968-demo-highlights.html).
+
+Source: https://archive.org/details/XD1946_08SRI-Highlightsof68Demo
 
 ## [(1968) "Mother of All Demos" :  Douglas Engelbart (Full)](https://tube.arthack.nz/videos/watch/a10e8b5b-47b8-45bf-9904-87009cacb071)
 
 [![(1968) "Mother of All Demos" :  Douglas Engelbart (Full)](https://tube.arthack.nz/static/thumbnails/44cc4ae0-68b2-45c9-970f-c1735f8f0872.jpg)](https://tube.arthack.nz/videos/watch/a10e8b5b-47b8-45bf-9904-87009cacb071)
 
-Also known as the "Mother of All Demos", Doug Engelbart's presentation at the Fall Joint Computer Conference in San Francisco, December 9, 1968 titled "A Research Center for Augmenting Human Intellect." For this presentation, Doug and his team ast...
+Also known as the "Mother of All Demos", Doug Engelbart's presentation at the Fall Joint Computer Conference in San Francisco, December 9, 1968 titled "A Research Center for Augmenting Human Intellect." For this presentation, Doug and his team astonished the audience by not only relating their research, but demonstrating it live. This was the debut of the mouse, interactive computing, hypermedia, computer supported software engineering, video teleconferencing, etc. See also [Doug's 1968 Demo](http://dougengelbart.org/firsts/dougs-1968-demo.html) page for more background, highlights, links, and the detailed paper published in this conference proceedings.
+
+Source: [1](https://archive.org/details/XD300-23_68HighlightsAResearchCntAugHumanIntellect) | [2](http://www.archive.org/details/XD300-24_68HighlightsAResearchCntAugHumanIntellect) | [3](http://www.archive.org/details/XD300-25_68HighlightsAResearchCntAugHumanIntellect)
 
 ## [(1968) Grail Demo](https://tube.arthack.nz/videos/watch/acbc36f8-a2f0-4352-afb7-30e4ba409aa5)
 
