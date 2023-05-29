@@ -59,14 +59,19 @@ async function writeChannelVideos(stream, options, { start = 0, count = 10 } = {
   ).json()
 
   for (const video of data) {
-    const { name, truncatedDescription, thumbnailPath, url } = video
+    const { name, description, thumbnailPath, url } = video
+
+    const shortDescription = description
+      .split(/\r?\n|\r/g)
+      .slice(0, 3)
+      .join('\n')
 
     const text = [
       `## [${name}](${url})`,
       ``,
       `[![${name}](${serverUrl}${thumbnailPath})](${url})`,
       ``,
-      truncatedDescription.replace(/\r?\n|\r/, '\n')
+      shortDescription,
     ].join('\n')
 
     await new Promise((resolve, reject) => {
