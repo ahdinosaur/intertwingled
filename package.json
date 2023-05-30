@@ -8,6 +8,8 @@
   "author": "Michael Williams",
   "license": "CC-BY",
   "dependencies": {
-    "got": "^13.0.0"
+    "got": "^13.0.0",
+    "into-stream": "^8.0.0",
+    "ordered-read-streams": "^2.0.0"
   }
 }

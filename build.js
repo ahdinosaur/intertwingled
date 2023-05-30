@@ -1,27 +1,44 @@
-import got from 'got'
 import { createWriteStream } from 'node:fs'
+import { pipeline } from 'node:stream/promises'
+import { Transform } from 'node:stream'
+import got from 'got'
+import intoStream from 'into-stream'
+import combine from 'ordered-read-streams'
 
 build({
   serverUrl: 'https://tube.arthack.nz',
   channelName: 'intertwingled',
   filePath: './README.md',
+  chunkSize: 10,
 })
 
 async function build(options) {
-  const { serverUrl, channelName, filePath } = options
+  const { chunkSize } = options
 
-  const stream = getFileStream(options)
-
-  await writeChannelTitle(stream, options)
-
-  await writeChannelVideos(stream, options)
+  await pipeline(
+    combine([
+      getChannelTitleTextSource(options),
+      getChannelVideosObjsSource(options, { count: chunkSize })
+        .map(
+          mapChannelVideoObjToText(options),
+          {
+            concurrency: chunkSize,
+          },
+        ),
+    ]),
+    getFileSink(options),
+  )
 }
 
-function getFileStream({ filePath }) {
-    return createWriteStream(new URL(filePath, import.meta.url))
+function getFileSink({ filePath }) {
+  return createWriteStream(new URL(filePath, import.meta.url))
 }
 
-async function writeChannelTitle(stream, { channelName, serverUrl }) {
+function getChannelTitleTextSource(options) {
+  return intoStream(getChannelTitleText(options))
+}
+
+async function getChannelTitleText({ channelName, serverUrl }) {
   const { displayName, description } = await got({
     prefixUrl: serverUrl,
     url: `api/v1/video-channels/${channelName}`
@@ -35,16 +52,18 @@ async function writeChannelTitle(stream, { channelName, serverUrl }) {
     description.replace(newlineRegex, '\n')
   ].join('\n')
 
-  stream.write(
-    text + '\n\n',
-    'utf-8'
-  )
+  return text + '\n\n'
 }
 
-async function writeChannelVideos(stream, options, { start = 0, count = 10 } = {}) {
-  console.log(start)
+function getChannelVideosObjsSource(options, pos) {
+  return intoStream.object(getChannelVideosObjs(options, pos))
+}
 
+async function* getChannelVideosObjs(options, pos) {
   const { channelName, serverUrl } = options
+  const { start = 0, count } = pos
+  
+  console.log(start)
 
   const { data } = await got(
     `api/v1/video-channels/${channelName}/videos`,
@@ -60,6 +79,18 @@ async function writeChannelVideos(stream, options, { start = 0, count = 10 } = {
   ).json()
 
   for (const video of data) {
+    yield video
+  }
+
+  if (!(data.length < count)) {
+    yield* getChannelVideosObjs(options, { start: start + data.length, count }) 
+  }
+}
+
+function mapChannelVideoObjToText(options) {
+  const { serverUrl } = options
+
+  return async (video) => {
     const { id, name, thumbnailPath, url } = video
 
     const { description } = await got(
@@ -82,20 +113,7 @@ async function writeChannelVideos(stream, options, { start = 0, count = 10 } = {
       shortDescription,
     ].join('\n')
 
-    await new Promise((resolve, reject) => {
-      stream.write(
-        text + '\n\n',
-        'utf-8',
-        (err) => {
-          if (err) reject(err)
-          else resolve()
-        }
-      )
-    })
-  }
-
-  if (!(data.length < count)) {
-    await writeChannelVideos(stream, options, { start: start + data.length, count }) 
+    return text + '\n\n'
   }
 }
 
