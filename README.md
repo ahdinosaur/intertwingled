@@ -1,4 +1,4 @@
-# EVERYTHING IS DEEPLY INTERTWINGLED
+# [EVERYTHING IS DEEPLY INTERTWINGLED](https://tube.arthack.nz/c/intertwingled/)
 
 ![](./banner.jpg)
 
@@ -7,6 +7,9 @@ A collection of videos to showcase the magic alchemy of computation.
 What is computing if you take away all hardware in front of your eyes?
 
 What does computing mean to humanity?
+
+- PeerTube: [@intertwingled@tube.arthack.nz](https://tube.arthack.nz/c/intertwingled/)
+- GitHub: [ahdinosaur/intertwingled](https://github.com/ahdinosaur/intertwingled)
 
 See also:
 

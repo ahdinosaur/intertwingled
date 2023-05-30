@@ -45,7 +45,7 @@ async function getChannelTitleText({ channelName, serverUrl }) {
   }).json()
 
   const text = [
-    `# ${displayName}`,
+    `# [${displayName}](${serverUrl}/c/${channelName}/)`,
     ``,
     `![](./banner.jpg)`,
     ``,
