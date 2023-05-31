@@ -219,6 +219,14 @@ Ted Nelson casts doubt on Computer Basics.
 
 Source: https://youtu.be/KdnGPQaICjk
 
+## [(2011) Nonsense : Reggie Watts](https://tube.arthack.nz/videos/watch/8f9b9649-a7e2-46f7-951d-1016b5a4d59c)
+
+[![(2011) Nonsense : Reggie Watts](https://tube.arthack.nz/static/thumbnails/42d34eb7-b03a-42d7-a37e-116ad2ed6297.jpg)](https://tube.arthack.nz/videos/watch/8f9b9649-a7e2-46f7-951d-1016b5a4d59c)
+
+Reggie Watts, the final performer on the PopTech 2011 stage, sends the audience off in style with his characteristic blend of wry improvisational humor and unpredictable musical riffs. Using only his microphone and a looping machine, Watts creates a brilliant pastiche of the conference and brings the conference attendees to their feet to dance.
+
+Source: https://youtu.be/ABm7DuBwJd8
+
 ## [(2010) Jean Bartik and the ENIAC Women](https://tube.arthack.nz/videos/watch/fce023d7-6c61-42c1-bd31-361d982b5650)
 
 [![(2010) Jean Bartik and the ENIAC Women](https://tube.arthack.nz/static/thumbnails/f1b134e2-83e7-4c58-b700-f1f45ef8c98d.jpg)](https://tube.arthack.nz/videos/watch/fce023d7-6c61-42c1-bd31-361d982b5650)
