@@ -11,13 +11,17 @@ What does computing mean to humanity? 🌻
 - PeerTube: [@intertwingled@tube.arthack.nz](https://tube.arthack.nz/c/intertwingled/)
 - GitHub: [ahdinosaur/intertwingled](https://github.com/ahdinosaur/intertwingled)
 
+Not sure where to start?
+
+- [(2013) The Future of Programming : Bret Victor](#2013-the-future-of-programming--bret-victor)
+- [(1997) The Computer Revolution Hasn't Happened Yet : Alan Kay](#1997-the-computer-revolution-hasnt-happened-yet--alan-kay)
+
 See also:
 
 - [Internet Archive](https://archive.org/)
 - [Viewpoints Intelligent Archive](https://tinlizzie.org/IA)
 - [Awesome Talks](https://github.com/JanVanRyswyck/awesome-talks)
 - [Awesome Computer History](https://github.com/watson/awesome-computer-history)
-- [ftp.squeak.org/Media/](https://ftp.squeak.org/Media/)
 
 To add or remove a video, see [contributing guide](https://github.com/ahdinosaur/intertwingled/blob/main/CONTRIBUTING.md).
 

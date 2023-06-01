@@ -1,3 +1,4 @@
+import anchor from 'anchor-markdown-header'
 import got from 'got'
 import { createWriteStream } from 'node:fs'
 import { parallelMap, pipeline, writeToStream } from 'streaming-iterables'
@@ -30,18 +31,23 @@ function getFileWriteStream({ filePath }) {
   return createWriteStream(new URL(filePath, import.meta.url))
 }
 
-async function getChannelTitle({ channelName, serverUrl }) {
+async function getChannelTitle(options) {
+  const { channelName, serverUrl } = options
+
   const { displayName, description } = await got({
     prefixUrl: serverUrl,
     url: `api/v1/video-channels/${channelName}`,
   }).json()
+
+  const description2 = description.replace(newlineRegex, '\n')
+  const description3 = rewriteVideoLinks(options, description2)
 
   const text = [
     `# [${displayName}](${serverUrl}/c/${channelName}/)`,
     ``,
     `![](./banner.jpg)`,
     ``,
-    description.replace(newlineRegex, '\n'),
+    description3,
   ].join('\n')
 
   return text + '\n\n'
@@ -102,5 +108,15 @@ function mapChannelVideosToText(options) {
     ].join('\n')
 
     return text + '\n\n'
+  })
+}
+
+function rewriteVideoLinks(options, text) {
+  const { serverUrl } = options
+
+  const videoLinkRegex = new RegExp(`\\[(.*?)\\]\\(${serverUrl}/w/[a-zA-Z0-9]+\\)`, 'g')
+
+  return text.replaceAll(videoLinkRegex, (_, label) => {
+    return anchor(label)
   })
 }

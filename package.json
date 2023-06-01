@@ -8,6 +8,7 @@
   "author": "Michael Williams",
   "license": "CC-BY",
   "dependencies": {
+    "anchor-markdown-header": "^0.7.0",
     "got": "^13.0.0",
     "stream-write": "^3.0.0",
     "streaming-iterables": "^7.1.0"
