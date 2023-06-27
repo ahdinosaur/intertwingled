@@ -143,6 +143,14 @@ For references and more information, see http://worrydream.com/dbx/
 
 Source: https://vimeo.com/71278954
 
+## [(2013) The Web We Lost : Anil Dash](https://tube.arthack.nz/videos/watch/9f8680bf-e053-4e41-8982-08912afa853a)
+
+[![(2013) The Web We Lost : Anil Dash](https://tube.arthack.nz/static/thumbnails/fb8b6bec-2c57-4a58-8921-67128739b4bc.jpg)](https://tube.arthack.nz/videos/watch/9f8680bf-e053-4e41-8982-08912afa853a)
+
+In the past decade, we've seen the rise of powerful social networks of unprecedented scale, connecting millions or even billions of people who can now communicate almost instantaneously. But many of the promises that were made by the creators of the earliest social networking technologies have gone unfulfilled. We'll take a look at some of the unexamined costs, both cultural and social, of the way the web has evolved.
+
+Source: https://www.youtube.com/watch?v=9KKMnoTTHJk
+
 ## [(2013) Antifragility : Nassim Taleb & Daniel Kahneman](https://tube.arthack.nz/videos/watch/1ec547ec-4737-4bb1-a1f7-d1201568622e)
 
 [![(2013) Antifragility : Nassim Taleb & Daniel Kahneman](https://tube.arthack.nz/static/thumbnails/906e933e-fcf0-4dc7-8a23-3e76a609446e.jpg)](https://tube.arthack.nz/videos/watch/1ec547ec-4737-4bb1-a1f7-d1201568622e)
