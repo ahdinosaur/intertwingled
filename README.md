@@ -709,6 +709,14 @@ Buckminster Fuller speaking on World Game, Boston College
 
 Source: https://archive.org/details/B.FullerSpeakingOnWorldGameBostonCollegetapeA
 
+## [(1969) Fred Rogers testifies before the Senate Subcommittee on Communications](https://tube.arthack.nz/videos/watch/d68872f6-e496-4090-a4d9-07fca1c2a18d)
+
+[![(1969) Fred Rogers testifies before the Senate Subcommittee on Communications](https://tube.arthack.nz/static/thumbnails/d16928c3-00d9-410e-a844-fe5a1482dafa.jpg)](https://tube.arthack.nz/videos/watch/d68872f6-e496-4090-a4d9-07fca1c2a18d)
+
+On May 1, 1969, Fred Rogers, host of the (then) recently nationally syndicated children's television series, Mister Rogers' Neighborhood (named Misterogers' Neighborhood at the time), testified before the Senate Committee on Commerce Subcommittee on Communications to defend $20 million in federal funding proposed for the newly formed non-profit Corporation for Public Broadcasting, which was at risk of being reduced to $10 million. Subcommittee chairman, Senator John Pastore (D-RI), unfamiliar with Fred Rogers, is initially abrasive toward him. Over the course of Rogers' 6 minutes of testimony, Pastore's demeanor gradually transitions to one of awe and admiration as Rogers speaks.
+
+Source: https://www.misterrogers.org/about-fred-rogers/
+
 ## [(1968) "Mother of All Demos" :  Douglas Engelbart (Highlights)](https://tube.arthack.nz/videos/watch/06459ca1-f7c6-4e82-9cb6-c42eecd51464)
 
 [![(1968) "Mother of All Demos" :  Douglas Engelbart (Highlights)](https://tube.arthack.nz/static/thumbnails/5c5affce-a35a-4093-b6b6-efebc532e7a2.jpg)](https://tube.arthack.nz/videos/watch/06459ca1-f7c6-4e82-9cb6-c42eecd51464)
