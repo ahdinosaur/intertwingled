@@ -111,6 +111,14 @@ We learn and are taught to write software, and a lot of time and effort and rese
 
 Source: https://youtu.be/-KgU5sxGtuM
 
+## [(2014) Turning the database inside out : Martin Kleppmann](https://tube.arthack.nz/videos/watch/53bc7e3f-21b5-4005-997c-9a3bbca391d2)
+
+[![(2014) Turning the database inside out : Martin Kleppmann](https://tube.arthack.nz/static/thumbnails/f332bd69-09d1-4e67-baf7-8d4d5065410a.jpg)](https://tube.arthack.nz/videos/watch/53bc7e3f-21b5-4005-997c-9a3bbca391d2)
+
+Databases are global, shared, mutable state. That's the way it has been since the 1960s, and no amount of NoSQL has changed that. However, most self-respecting developers have got rid of mutable global variables in their code long ago. So why do we tolerate databases as they are? --- A more promising model, used in some systems, is to think of a database as an always-growing collection of immutable facts. You can query it at some point in time — but that's still old, imperative style thinking. A more fruitful approach is to take the streams of facts as they come in, and functionally process them in real-time.
+
+Source: https://youtu.be/fU9hR3kiOK0
+
 ## [(2013) Finding a Way Out : Chris Granger](https://tube.arthack.nz/videos/watch/de37f5e4-0625-4935-b4ed-0257abce6ab0)
 
 [![(2013) Finding a Way Out : Chris Granger](https://tube.arthack.nz/static/thumbnails/63ccb318-830c-4c58-86a7-56ce6a294cc5.jpg)](https://tube.arthack.nz/videos/watch/de37f5e4-0625-4935-b4ed-0257abce6ab0)
