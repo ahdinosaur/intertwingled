@@ -421,6 +421,14 @@ Virtual reality started out as a science fiction concept in the early 1950s. Now
 
 Source: https://archive.org/details/virtualreali
 
+## [(1991) Solar Energy Expo & Rally (SEER) : Willits, California](https://tube.arthack.nz/videos/watch/aaee7420-6858-48ed-9175-cb4000c0047d)
+
+[![(1991) Solar Energy Expo & Rally (SEER) : Willits, California](https://tube.arthack.nz/static/thumbnails/a1416699-dbda-46ad-be3e-67148ac1c080.jpg)](https://tube.arthack.nz/videos/watch/aaee7420-6858-48ed-9175-cb4000c0047d)
+
+SEER 1991. Promo video for SEER 1992. Solar Energy Expo & Rally (SEER) Held in Willits and Ukiah, California, in 1990, 1991, 1992, and 1994, each SEER attracted about 10,000 people over the weekend, with 300 exhibitors, 200 speakers and workshops, scores of volunteers, and dozens of experimental vehicles. It was a resounding success in terms of education, creation of a networking database, and visitors’ dollars spent locally.
+
+Source: https://youtu.be/y4ff5w0q88E
+
 ## [(1991) Hyperdelic #2](https://tube.arthack.nz/videos/watch/4796be4e-bdf6-488e-bbba-03da2d929d08)
 
 [![(1991) Hyperdelic #2](https://tube.arthack.nz/static/thumbnails/93803190-6e7f-475f-8dc4-a70d178b36ae.jpg)](https://tube.arthack.nz/videos/watch/4796be4e-bdf6-488e-bbba-03da2d929d08)
