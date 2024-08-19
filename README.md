@@ -333,9 +333,9 @@ Interview with [Stewart Brand](https://en.wikipedia.org/wiki/Stewart_Brand) and 
 
 Source: https://archive.org/details/interviewstewartbrand2004
 
-## [[2002] Claude Shannon - Father of the Information Age](https://tube.arthack.nz/videos/watch/6d5c2573-9bb9-487a-ae32-af5706205d45)
+## [(2002) Claude Shannon - Father of the Information Age](https://tube.arthack.nz/videos/watch/6d5c2573-9bb9-487a-ae32-af5706205d45)
 
-[![[2002] Claude Shannon - Father of the Information Age](https://tube.arthack.nz/static/thumbnails/34c1f0ed-ad15-454a-8c35-c2c858a1fd4b.jpg)](https://tube.arthack.nz/videos/watch/6d5c2573-9bb9-487a-ae32-af5706205d45)
+[![(2002) Claude Shannon - Father of the Information Age](https://tube.arthack.nz/static/thumbnails/34c1f0ed-ad15-454a-8c35-c2c858a1fd4b.jpg)](https://tube.arthack.nz/videos/watch/6d5c2573-9bb9-487a-ae32-af5706205d45)
 
 Considered the founding father of the electronic communication age, Claude Shannon's work ushered in the Digital Revolution. This fascinating program explores his life and the major influence his work had on today's digital world through interviews with his friends and colleagues.
 
@@ -445,9 +445,9 @@ This is a video of techno music and experimental video by Hyperdelic from the 19
 
 Source: https://archive.org/details/Timothy_Leary_Archives_295
 
-## [[1990] All The Widgets](https://tube.arthack.nz/videos/watch/17646168-8a67-47c4-9868-e09f4d737969)
+## [(1990) All The Widgets](https://tube.arthack.nz/videos/watch/17646168-8a67-47c4-9868-e09f4d737969)
 
-[![[1990] All The Widgets](https://tube.arthack.nz/static/thumbnails/5df9bd2d-5a2b-403e-b341-1dda921f19c6.jpg)](https://tube.arthack.nz/videos/watch/17646168-8a67-47c4-9868-e09f4d737969)
+[![(1990) All The Widgets](https://tube.arthack.nz/static/thumbnails/5df9bd2d-5a2b-403e-b341-1dda921f19c6.jpg)](https://tube.arthack.nz/videos/watch/17646168-8a67-47c4-9868-e09f4d737969)
 
 This was made in 1990, sponsored by the ACM CHI 1990 conference, to tell the history of widgets up until then.
 
@@ -541,9 +541,9 @@ Doug Engelbart's presentation at the ACM Conference on the History of Personal W
 
 Source: https://archive.org/details/XD302_86ACM_Prese_AugKnowledgeWorkshopParts1and2
 
-## [[1986] Personal Distributed Computing : Butler Lampson](https://tube.arthack.nz/videos/watch/e15a3e83-70c5-41a9-b81e-304767596553)
+## [(1986) Personal Distributed Computing : Butler Lampson](https://tube.arthack.nz/videos/watch/e15a3e83-70c5-41a9-b81e-304767596553)
 
-[![[1986] Personal Distributed Computing : Butler Lampson](https://tube.arthack.nz/static/thumbnails/6d19e63d-22c6-4a38-94a9-4c50a875e110.jpg)](https://tube.arthack.nz/videos/watch/e15a3e83-70c5-41a9-b81e-304767596553)
+[![(1986) Personal Distributed Computing : Butler Lampson](https://tube.arthack.nz/static/thumbnails/6d19e63d-22c6-4a38-94a9-4c50a875e110.jpg)](https://tube.arthack.nz/videos/watch/e15a3e83-70c5-41a9-b81e-304767596553)
 
 Presentation given by Butler Lampson (introduced by Ed McCreight) at the ACM Conference on the History of Personal Workstations, held at Rickey’s Hyatt House in Palo Alto, California, on January 9 and 10, 1986. The conference was sponsored by the Association for Computing Machinery (ACM) and hosted by the Xerox Palo Alto Research Center (PARC).
 
@@ -805,9 +805,9 @@ Innovations in computer technology as weapons in the Cold War.
 
 Source: https://archive.org/details/OnGuard1956
 
-## [[1954] "The Search" : Automatic Robots & Digital Computers](https://tube.arthack.nz/videos/watch/4ed7692a-10a4-4658-af19-0b6f19e7a1d1)
+## [(1954) "The Search" : Automatic Robots & Digital Computers](https://tube.arthack.nz/videos/watch/4ed7692a-10a4-4658-af19-0b6f19e7a1d1)
 
-[![[1954] "The Search" : Automatic Robots & Digital Computers](https://tube.arthack.nz/static/thumbnails/b66ea4ea-fe36-41ca-abb6-7f0c9a772e8d.jpg)](https://tube.arthack.nz/videos/watch/4ed7692a-10a4-4658-af19-0b6f19e7a1d1)
+[![(1954) "The Search" : Automatic Robots & Digital Computers](https://tube.arthack.nz/static/thumbnails/b66ea4ea-fe36-41ca-abb6-7f0c9a772e8d.jpg)](https://tube.arthack.nz/videos/watch/4ed7692a-10a4-4658-af19-0b6f19e7a1d1)
 
 This film is an episode of ‘The Search’ a pioneering educational program that aired on CBS. This episode takes a look at the laboratories and plants that pioneered the development of automatic machines in 1954. It takes a tour through the Massachusetts Institute of Technology in Cambridge, the Bell Laboratories in New York, and others locales.
 
