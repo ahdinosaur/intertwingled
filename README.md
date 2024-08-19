@@ -501,6 +501,12 @@ A collection of promotional and commercial work done by the Symbolics Graphics D
 
 Source: https://archive.org/details/symbolicsdemoreel1989
 
+## [(1988) Human Powered Speed Championships](https://tube.arthack.nz/videos/watch/05a26c56-1707-4bc1-b58a-e32deaa8bfba)
+
+[![(1988) Human Powered Speed Championships](https://tube.arthack.nz/static/thumbnails/9f760d04-88a9-4d15-a104-93dc1adf27bf.jpg)](https://tube.arthack.nz/videos/watch/05a26c56-1707-4bc1-b58a-e32deaa8bfba)
+
+Source: https://youtu.be/CnzfB-KfqHA
+
 ## [(1987) Hypercard - Computer Chronicles](https://tube.arthack.nz/videos/watch/1ba1e863-cc86-433e-a1dc-bd642835409a)
 
 [![(1987) Hypercard - Computer Chronicles](https://tube.arthack.nz/static/thumbnails/f1363304-fa76-47de-946b-f208c638448d.jpg)](https://tube.arthack.nz/videos/watch/1ba1e863-cc86-433e-a1dc-bd642835409a)
