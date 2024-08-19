@@ -349,6 +349,14 @@ Daniel Quinn proposes that the modern environmental crisis has its origins in th
 
 Source: https://youtu.be/DhUz9guvrno
 
+## [(1998) Growing a Language : Guy Steele](https://tube.arthack.nz/videos/watch/3573809e-1351-41b6-8df4-83f42040654b)
+
+[![(1998) Growing a Language : Guy Steele](https://tube.arthack.nz/static/thumbnails/881a2d55-3d2c-41a2-b123-04099f40ee21.jpg)](https://tube.arthack.nz/videos/watch/3573809e-1351-41b6-8df4-83f42040654b)
+
+Guy Steele's keynote at the 1998 ACM OOPSLA conference on "Growing a Language" discusses the importance of and issues associated with designing a programming language that can be grown by its users.
+
+Source: https://youtu.be/_ahvzDzKdB0
+
 ## [(1997) The Computer Revolution Hasn't Happened Yet : Alan Kay](https://tube.arthack.nz/videos/watch/4d61c202-bef0-4da5-81c3-2d1b45622e53)
 
 [![(1997) The Computer Revolution Hasn't Happened Yet : Alan Kay](https://tube.arthack.nz/static/thumbnails/0736678a-7e5a-4d79-8da4-9cb14df9394e.jpg)](https://tube.arthack.nz/videos/watch/4d61c202-bef0-4da5-81c3-2d1b45622e53)
